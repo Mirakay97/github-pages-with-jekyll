@@ -1,11 +1,6 @@
 ---
-title: my first blog
-author: Mirakay97
-theme: minima
-descriprion: I am planning to talk about front-end development
-
-
-
+title: "FRONTEND"
+date: 2020-11-21
 ---
 #Welcome
 
